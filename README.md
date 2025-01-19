@@ -2,7 +2,7 @@
 
 This is the code for the homework of rigid body simulation in [Games103](https://games-cn.org/games103/). 
 
-This code is written in *python* and *[taichi]([taichi-dev/taichi: Productive, portable, and performant GPU programming in Python. (github.com)](https://github.com/taichi-dev/taichi))* language.
+This code is written in python and [taichi](https://github.com/taichi-dev/taichi) language.
 
 ## How to run
 
